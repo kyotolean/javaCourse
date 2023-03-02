@@ -1,3 +1,3 @@
 <p align="center">
-  Java Course
+  <h1>ITSU Java Course</h1>
 </p>
